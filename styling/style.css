@@ -1,0 +1,14 @@
+body {
+    background-color: lightskyblue;
+
+    font-family:'Courier New', Courier, monospace;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 50px auto;
+    width: 200px;
+    font-size: 20px;
+}
