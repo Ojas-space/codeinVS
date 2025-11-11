@@ -1,0 +1,22 @@
+.gym {
+    font-family: monospace;
+    font-size: 56px;
+    text-align: center;
+    border: 9px solid black;
+    border-radius: 20px;
+    /* padding-top: 82px; */
+    background-color: beige;
+    padding-bottom: 5%;
+
+}
+
+
+.inner{
+
+    padding-top: 1%;
+    padding-bottom: 1%;
+    align-items:center;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 20px auto;
+}
