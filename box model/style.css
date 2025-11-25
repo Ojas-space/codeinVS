@@ -20,3 +20,19 @@
     border-radius: 10px;
     margin: 20px auto;
 }
+
+h2{
+    border: solid;
+    text-align: center;
+    color: #007EA7;
+    margin-bottom: 0 auto;
+    border-radius: 5px;
+    background: #E2DCDE;
+}
+
+img{
+    margin-top: 10px;
+    border: solid #F1E4E8;
+height:500px;
+
+}
