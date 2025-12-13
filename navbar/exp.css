@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+.pan {
+  margin-top: 30px;
+}
+
 /* Navbar Container */
 .navbar {
   display: flex;
